@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Rahul Kumar",
+        "age":"23",
+        "hight":"120",
+        "email":"rahulloni000@gmail.com",
+        "gender":"Male",
+        "hair_Color":"Black"
+
+    },
+
+    {
+        "name":"Rohan Kumar",
+        "age":"30",
+        "hight":"120",
+        "email":"Rohankumar@gmail.com",
+        "gender":"Male",
+        "hair_Color":"Black_gray"
+
+    },
+
+    {
+        "name":"Sanjay Kumar",
+        "age":"98",
+        "hight":"125",
+        "email":"sanjay000@gmail.com",
+        "gender":"Male",
+        "hair_Color":"Black"
+
+    },
+
+    {
+        "name":"asmit Kumar",
+        "age":"50",
+        "hight":"120",
+        "email":"asmit000@gmail.com",
+        "gender":"Male",
+        "hair_Color":"Black"
+
+    },
+    {
+        "name":"sabit Kumar",
+        "age":"80",
+        "hight":"120",
+        "email":"sabit@gmail.com",
+        "gender":"female",
+        "hair_Color":"Black_brown_red"
+
+    }
+]
